@@ -2,7 +2,6 @@
 
 Welcome to Fork & Feast, a premier dining experience offering a diverse menu and exceptional service. Explore our website to discover our culinary offerings and make reservations.
 
-![Fork & Feast](https://forkandfeast08.netlify.app/images/restaurant-banner.jpg)
 
 ## Table of Contents
 

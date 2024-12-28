@@ -3,8 +3,6 @@
 Welcome to Fork & Feast, a premier dining experience offering a diverse menu and exceptional service. Explore our website to discover our culinary offerings and make reservations.
 
 
-## Table of Contents
-
 
 ## About
 
